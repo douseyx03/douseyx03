@@ -1,4 +1,5 @@
-Hi 👋 My name is SEYDOU DIALLO ==============================  Backen engineer | Web Developer 
+Hi 👋 My name is SEYDOU DIALLO 
+#Backend engineer | Web Developer 
 -------------------------------  
 * 🌍  I'm based in Senegal * ✉️  You can contact me at [seydoudiallo.7tech@gmail.com](mailto:seydoudiallo.7tech@gmail.com)
 
